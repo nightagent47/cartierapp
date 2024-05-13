@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931899178039",
+    "project_id": "cartier-bbb9c",
+    "storage_bucket": "cartier-bbb9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931899178039:android:3e3fa9cbf173674175d3b2",
+        "android_client_info": {
+          "package_name": "com.apk.cartier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwnWoBZmTwTjL23UuHdl35EFMMnnMyFIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
